@@ -1,0 +1,11 @@
+C:\Windows\Temp\ws-visualStudio\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\netcoreapp3.0\PrimeiroProjeto.exe
+C:\Windows\Temp\ws-visualStudio\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\netcoreapp3.0\PrimeiroProjeto.deps.json
+C:\Windows\Temp\ws-visualStudio\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\netcoreapp3.0\PrimeiroProjeto.runtimeconfig.json
+C:\Windows\Temp\ws-visualStudio\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\netcoreapp3.0\PrimeiroProjeto.runtimeconfig.dev.json
+C:\Windows\Temp\ws-visualStudio\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\netcoreapp3.0\PrimeiroProjeto.dll
+C:\Windows\Temp\ws-visualStudio\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\netcoreapp3.0\PrimeiroProjeto.pdb
+C:\Windows\Temp\ws-visualStudio\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\netcoreapp3.0\PrimeiroProjeto.csprojAssemblyReference.cache
+C:\Windows\Temp\ws-visualStudio\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\netcoreapp3.0\PrimeiroProjeto.AssemblyInfoInputs.cache
+C:\Windows\Temp\ws-visualStudio\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\netcoreapp3.0\PrimeiroProjeto.AssemblyInfo.cs
+C:\Windows\Temp\ws-visualStudio\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\netcoreapp3.0\PrimeiroProjeto.dll
+C:\Windows\Temp\ws-visualStudio\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\netcoreapp3.0\PrimeiroProjeto.pdb
